@@ -1,2 +1,2 @@
-# sbk-joseki
+# sbk
 
